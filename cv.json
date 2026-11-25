@@ -1,275 +1,478 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
+    "name": "Randy Gutierrez",
+    "label": "Full Stack Developer | Backend, Software Architecture & DevOps",
+    "image": "/me.jpg",
+    "email": "c.randy.gutierrez.c@gmail.com",
+    "phone": "+503 63116941",
     "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "summary": "Desarrollador Full Stack y estudiante de Ingeniería en Sistemas, apasionado por la tecnología, la arquitectura de software y la creación de soluciones digitales. Cuento con experiencia en el desarrollo y mantenimiento de sistemas empresariales, diseño de bases de datos, APIs REST, aplicaciones web e infraestructura tecnológica. Me enfoco en construir soluciones escalables, mantenibles y eficientes, aplicando buenas prácticas de desarrollo y principios SOLID. Actualmente desarrollo proyectos personales y exploro nuevas tecnologías para fortalecer mis conocimientos en ingeniería de software.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "",
+      "city": "Sonsonate",
+      "countryCode": "SV",
+      "region": "El Salvador"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "",
+        "url": "https://www.linkedin.com/in/randygutierrezc"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "",
+        "url": "https://github.com/RandyGutierrezC"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Compañía Azucarera Salvadoreña",
+      "position": "Desarrollador de Software",
+      "url": "https://www.grupocassa.com/",
+      "startDate": "2026-02-01",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Desarrollo, mantenimiento y optimización de sistemas empresariales, implementación de nuevas funcionalidades, gestión de bases de datos, resolución de incidencias y mejora continua de aplicaciones utilizadas en procesos operativos.",
       "highlights": [
-        "Started the company"
+        "Desarrollo y mantenimiento de sistemas empresariales",
+        "Diseño e implementación de bases de datos relacionales",
+        "Desarrollo y optimización de procedimientos almacenados",
+        "Desarrollo de APIs REST",
+        "Análisis y resolución de incidencias en producción",
+        "Implementación de requerimientos de negocio",
+        "Pruebas y validaciones en ambientes de calidad",
+        "Control de versiones y trabajo colaborativo con Git",
+        "Documentación técnica de soluciones"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "name": "Universidad de Sonsonate",
+      "position": "Desarrollador de Software",
+      "url": "https://www.usonsonate.edu.sv/",
+      "startDate": "2024-02-01",
+      "endDate": "2025-12-01",
+      "summary": "Desarrollé un Sistema de Gestión de Calidad orientado a la digitalización, centralización y seguimiento de los procesos institucionales, facilitando la administración de la información y contribuyendo a la mejora continua de la gestión universitaria. Participé en el análisis de requerimientos, diseño y desarrollo de la solución tecnológica.",
       "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
-      "highlights": [
-        "Started the company"
+        "Desarrollo del Sistema de Gestión de Calidad institucional",
+        "Análisis y levantamiento de requerimientos funcionales",
+        "Digitalización de procesos institucionales",
+        "Diseño y desarrollo de aplicaciones web",
+        "Diseño e implementación de bases de datos relacionales",
+        "Centralización y gestión de información institucional",
+        "Implementación de funcionalidades para el seguimiento de procesos",
+        "Pruebas funcionales y validación del sistema",
+        "Mantenimiento y mejora continua de la aplicación",
+        "Documentación técnica y funcional del sistema"
       ]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Universidad de Sonsonate",
+      "url": "https://www.usonsonate.edu.sv",
+      "area": "Ingeniería en Sistemas Computacionales",
+      "studyType": "Ingeniería",
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    },
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    },
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    },
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [],
   "skills": [
     {
       "name": "HTML",
-      "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend"
+        "Frontend",
+        "Desarrollo Web"
       ]
     },
     {
       "name": "CSS",
-      "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
+        "Frontend",
+        "Diseño Responsive"
       ]
     },
     {
       "name": "JavaScript",
-      "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Frontend",
+        "Backend",
+        "Desarrollo Web"
       ]
     },
     {
       "name": "TypeScript",
-      "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "JavaScript",
+        "Tipado Estático",
+        "Desarrollo de Software"
       ]
     },
     {
       "name": "React",
-      "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Frontend",
+        "SPA",
+        "Componentes"
+      ]
+    },
+    {
+      "name": "Vite",
+      "keywords": [
+        "Frontend",
+        "Build Tools"
+      ]
+    },
+    {
+      "name": "Tailwind CSS",
+      "keywords": [
+        "Frontend",
+        "Diseño Responsive",
+        "UI"
+      ]
+    },
+    {
+      "name": "HeroUI",
+      "keywords": [
+        "React",
+        "UI",
+        "Design System"
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "keywords": [
+        "Frontend",
+        "CSS Framework"
+      ]
+    },
+    {
+      "name": "jQuery",
+      "keywords": [
+        "JavaScript",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "Node.js",
+      "keywords": [
+        "Backend",
+        "JavaScript",
+        "APIs REST"
+      ]
+    },
+    {
+      "name": "Express.js",
+      "keywords": [
+        "Backend",
+        "APIs REST",
+        "Node.js"
+      ]
+    },
+    {
+      "name": "PHP",
+      "keywords": [
+        "Backend",
+        "Desarrollo Web"
+      ]
+    },
+    {
+      "name": "Laravel",
+      "keywords": [
+        "PHP",
+        "Backend",
+        "MVC",
+        "APIs REST"
+      ]
+    },
+    {
+      "name": "CodeIgniter",
+      "keywords": [
+        "PHP",
+        "Backend",
+        "MVC"
+      ]
+    },
+    {
+      "name": "Sequelize",
+      "keywords": [
+        "ORM",
+        "Node.js",
+        "Bases de Datos"
+      ]
+    },
+    {
+      "name": "Java",
+      "keywords": [
+        "Programación",
+        "POO"
+      ]
+    },
+    {
+      "name": "C#",
+      "keywords": [
+        "Programación",
+        "POO"
+      ]
+    },
+    {
+      "name": "C++",
+      "keywords": [
+        "Programación",
+        "Algoritmos"
+      ]
+    },
+    {
+      "name": "SQL Server",
+      "keywords": [
+        "Bases de Datos",
+        "T-SQL",
+        "Stored Procedures",
+        "Optimización",
+        "Diseño Relacional"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Docker",
+      "keywords": [
+        "DevOps",
+        "Contenedores",
+        "Infraestructura"
+      ]
+    },
+    {
+      "name": "Coolify",
+      "keywords": [
+        "DevOps",
+        "Self-Hosting",
+        "Despliegues",
+        "PaaS"
+      ]
+    },
+    {
+      "name": "Linux",
+      "keywords": [
+        "Ubuntu",
+        "Servidores",
+        "Administración de Sistemas"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "keywords": [
+        "DNS",
+        "CDN",
+        "Seguridad",
+        "Cloud Storage"
+      ]
+    },
+    {
+      "name": "Traefik",
+      "keywords": [
+        "Reverse Proxy",
+        "Infraestructura",
+        "Docker"
+      ]
+    },
+    {
+      "name": "Nginx",
+      "keywords": [
+        "Web Server",
+        "Reverse Proxy"
+      ]
+    },
+    {
+      "name": "Git",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "keywords": [
+        "Repositorios",
+        "Control de Versiones",
+        "Colaboración"
+      ]
+    },
+    {
+      "name": "Postman",
+      "keywords": [
+        "APIs REST",
+        "Testing",
+        "Documentación"
+      ]
+    },
+    {
+      "name": "Software Architecture",
+      "keywords": [
+        "SOLID",
+        "Clean Code",
+        "Diseño de Software",
+        "Escalabilidad",
+        "Desacoplamiento"
+      ]
+    },
+    {
+      "name": "REST APIs",
+      "keywords": [
+        "Backend",
+        "HTTP",
+        "Integraciones",
+        "JSON"
       ]
     }
   ],
   "languages": [
     {
-      "language": "Spanish",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Advanced"
+      "language": "Español",
+      "fluency": "Fluido"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
+  "interests": [
+    {
+      "name": "Software Engineering",
+      "keywords": [
+        "Clean Architecture",
+        "SOLID",
+        "Design Patterns",
+        "System Design"
+      ]
+    },
+    {
+      "name": "Cloud Computing & DevOps",
+      "keywords": [
+        "Docker",
+        "Self-Hosting",
+        "Automatización",
+        "Infraestructura"
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "keywords": [
+        "AI Tools",
+        "Model Context Protocol",
+        "Desarrollo asistido por IA"
+      ]
+    },
+    {
+      "name": "Entrepreneurship",
+      "keywords": [
+        "Startups",
+        "SaaS",
+        "Innovación Tecnológica",
+        "Productos Digitales"
+      ]
+    },
+    {
+      "name": "Mountain Bike",
+      "keywords": [
+        "MTB",
+        "Cross Country",
+        "Ciclismo"
+      ]
+    },
+    {
+      "name": "Chess",
+      "keywords": [
+        "Estrategia",
+        "Pensamiento Lógico"
+      ]
+    }
+  ],
+  "references": [],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Mini Facturación",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Sistema de gestión comercial y facturación diseñado para facilitar la administración de las operaciones de un negocio mediante una plataforma digital.",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
-      ],
-      "url": "https://mars.codes"
+        "Gestión de productos y clientes",
+        "Facturación",
+        "Control de usuarios y roles",
+        "Arquitectura Frontend y Backend",
+        "APIs REST",
+        "MySQL",
+        "Infraestructura Self-Hosted"
+      ]
     },
     {
-      "name": "AdventJS",
+      "name": "Plataforma de Invitaciones Digitales",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Plataforma web para la creación y personalización de invitaciones digitales para bodas, cumpleaños y eventos especiales, con diseños interactivos y experiencias visuales personalizadas.",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
-      ],
-      "url": "https://adventjs.dev"
+        "Invitaciones personalizadas",
+        "Animaciones interactivas",
+        "Diseño responsive",
+        "Experiencia de usuario",
+        "Gestión de contenido digital"
+      ]
     },
     {
-      "name": "Codember",
+      "name": "Sistema de Gestión de Calidad",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Sistema orientado a la gestión y digitalización de procesos de control de calidad.",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
-      ],
-      "url": "https://codember.dev"
+        "Gestión de información",
+        "Control de calidad",
+        "Bases de datos relacionales"
+      ]
     },
     {
-      "name": "codi.link",
+      "name": "Sistema de Gestión de Clínica Psicológica",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "description": "Plataforma web diseñada para optimizar la gestión administrativa y operativa de una clínica psicológica, facilitando la administración de pacientes, programación de citas y seguimiento de la atención psicológica. La solución busca centralizar la información, digitalizar los procesos y mejorar la eficiencia de los servicios clínicos.",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+        "Gestión y administración de pacientes",
+        "Programación y control de citas psicológicas",
+        "Seguimiento de la atención psicológica",
+        "Centralización de información clínica",
+        "Digitalización de procesos administrativos",
+        "Diseño e implementación de bases de datos relacionales",
+        "Optimización de procesos operativos"
+      ]
     }
   ]
 }
