@@ -1,30 +1,36 @@
 ---
 import GitHub from "@/icons/GitHub.astro"
 import Section from "../Section.astro"
+import type { CV } from "@/cv"
 
 import { getCV, useTranslations, type Lang } from "@/i18n"
 
 const { lang } = Astro.props as { lang: Lang }
-const { projects } = getCV(lang)
+const projects: CV["projects"] = getCV(lang).projects
 const t = useTranslations(lang)
+
 ---
 
 <Section title={t("projects.title")}>
   <ul class="projects">
     {
       projects.map(
-        ({ url, description, highlights, name, isActive, github }) => (
+        ({ url, description, highlights, name, isActive, github }) =>  (
           <li>
             <article>
               <h3>
-                <a
-                  href={url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  title={t("projects.link", { name })}
-                >
-                  {name}
-                </a>
+                {url?.trim() ? (
+                  <a
+                    href={url.trim()}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    title={t("projects.link", { name })}
+                  >
+                    {name}
+                  </a>
+                ) : (
+                  <span>{name}</span>
+                )}
                 {isActive && (
                   <span
                     class="live"
@@ -33,10 +39,10 @@ const t = useTranslations(lang)
                     aria-label={t("projects.active")}
                   />
                 )}
-                {github && (
+                {github?.trim() && (
                   <a
                     class="source no-print"
-                    href={github}
+                    href={github.trim()}
                     target="_blank"
                     rel="noopener noreferrer"
                     title={t("projects.source", { name })}
