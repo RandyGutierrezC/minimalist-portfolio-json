@@ -433,6 +433,8 @@
     {
       "name": "Mini Facturación",
       "isActive": true,
+      "url": "",
+      "github": "",
       "description": "Sistema de gestión comercial y facturación diseñado para facilitar la administración de las operaciones de un negocio mediante una plataforma digital.",
       "highlights": [
         "Gestión de productos y clientes",
@@ -447,6 +449,8 @@
     {
       "name": "Plataforma de Invitaciones Digitales",
       "isActive": true,
+      "url": "",
+      "github": "",
       "description": "Plataforma web para la creación y personalización de invitaciones digitales para bodas, cumpleaños y eventos especiales, con diseños interactivos y experiencias visuales personalizadas.",
       "highlights": [
         "Invitaciones personalizadas",
@@ -459,6 +463,8 @@
     {
       "name": "Sistema de Gestión de Calidad",
       "isActive": true,
+      "url": "",
+      "github": "",
       "description": "Sistema orientado a la gestión y digitalización de procesos de control de calidad.",
       "highlights": [
         "Gestión de información",
@@ -469,6 +475,8 @@
     {
       "name": "Sistema de Gestión de Clínica Psicológica",
       "isActive": true,
+      "url": "",
+      "github": "",
       "description": "Plataforma web diseñada para optimizar la gestión administrativa y operativa de una clínica psicológica, facilitando la administración de pacientes, programación de citas y seguimiento de la atención psicológica. La solución busca centralizar la información, digitalizar los procesos y mejorar la eficiencia de los servicios clínicos.",
       "highlights": [
         "Gestión y administración de pacientes",
