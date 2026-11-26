@@ -5,7 +5,7 @@
     "image": "/me.jpg",
     "email": "c.randy.gutierrez.c@gmail.com",
     "phone": "+503 63116941",
-    "url": "https://midu.dev",
+    "url": "https://randygutierrez.grupo-2g.com",
     "summary": "Desarrollador Full Stack y estudiante de Ingeniería en Sistemas, apasionado por la tecnología, la arquitectura de software y la creación de soluciones digitales. Cuento con experiencia en el desarrollo y mantenimiento de sistemas empresariales, diseño de bases de datos, APIs REST, aplicaciones web e infraestructura tecnológica. Me enfoco en construir soluciones escalables, mantenibles y eficientes, aplicando buenas prácticas de desarrollo y principios SOLID. Actualmente desarrollo proyectos personales y exploro nuevas tecnologías para fortalecer mis conocimientos en ingeniería de software.",
     "location": {
       "address": "",
@@ -84,28 +84,34 @@
   "awards": [],
   "certificates": [
     {
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
+      "name": "Curso de Automatizaciones con n8n",
+      "date": "2026-02-06",
+      "issuer": "Platzi",
+      "url": "https://platzi.com/p/c.randy.gutierrez.c/curso/12245-course/diploma/detalle/"
     },
     {
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
+      "name": "Curso de Excel Intermedio",
+      "date": "2025-10-29",
+      "issuer": "Platzi",
+      "url": "https://platzi.com/p/c.randy.gutierrez.c/curso/12288-course/diploma/detalle/"
     },
     {
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
+      "name": "Curso de Excel Básico",
+      "date": "2025-10-29",
+      "issuer": "Platzi",
+      "url": "https://platzi.com/p/c.randy.gutierrez.c/curso/12191-course/diploma/detalle/"
     },
     {
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
+      "name": "Herramientas Digitales y Automatización para Negocios",
+      "date": "2026-02-06",
+      "issuer": "Platzi",
+      "url": "https://platzi.com/p/c.randy.gutierrez.c/ruta/30172-ruta/diploma/detalle/"
+    },
+    {
+      "name": "Reto Developer Foundations: Crea tu app en 15 días",
+      "date": "2026-02-06",
+      "issuer": "Platzi",
+      "url": "https://platzi.com/p/c.randy.gutierrez.c/ruta/36945-ruta/diploma/detalle/"
     }
   ],
   "publications": [],
